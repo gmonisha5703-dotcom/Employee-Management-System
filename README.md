@@ -1,19 +1,35 @@
 # Employee Management System
 
 ## Project Description
-A simple Employee Management System developed using Python. It helps users add and view employee details.
+
+A Python-based Employee Management System designed to manage employee records efficiently through a simple menu-based interface.
 
 ## Technologies Used
+
 - Python 3
 
-## Features
+ Features
+
 - Add Employee Details
-- View Employee Records
-- Store Employee ID, Name and Salary
+- View All Employee Records
+- Search Employee by ID
+- Update Employee Details
+- Delete Employee Records
+- Prevent Duplicate Employee IDs
 - Menu-Based Interface
 
-## How to Run
+ How to Run
+
 1. Install Python 3.
-2. Download the project.
-3. Run employee_management.py.
-4. Select the required menu option.
+2. Download or clone this repository.
+3. Open the project folder.
+4. Run `employee_management.py`.
+5. Select the required menu option.
+
+Project Objective
+
+To simplify employee record management using Python programming.
+
+## Developer
+
+Monisha G
